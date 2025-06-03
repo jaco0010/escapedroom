@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Escaped room");
 
         byte edad;
-        int precioProducto;
+        double precioProducto;
         byte cantidadHijos;
         int salario;
         float altura;
