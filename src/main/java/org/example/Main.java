@@ -1,15 +1,18 @@
 package org.example;
 
+import java.time.LocalDate;
+import java.time.LocalTime;
+
 public class Main {
-    public static void main(String[] args) {
+    public static void (String[] args) {
         System.out.println("Escaped room");
 
-        int edad;
-        double precioProducto;
-        int cantidadHijos;
-        double salario;
-        double altura;
-        boolean interruptorEncendido;
+        byte edad;
+        int precioProducto;
+        byte cantidadHijos;
+        int salario;
+        float altura;
+        boolean interruptorEncendido=false;
         char genero;
         String matriculaVehiculo;
         int productosDisponibles;
@@ -42,18 +45,10 @@ public class Main {
         char caracterEspecial;
         double constantePlanck;
         boolean sensorFuncionando;
-        LocalTime horaEvento;
-        boolean clienteRegistrado;
-        String idCliente;
-        double volumenRecipiente;
-        String nombreUsuario;
-        String codigoProducto;
-        int cantidadVisitantes;
-        boolean pagoConfirmado;
-        double pesoPersona;
-        double notaFinal;
-        char teclaPulsada;
-        String nombreEmpresa;
+        LocalTime  horaExacta;
+        boolean clienteRegistrado=false;
+        String  idUnico;
+        float volumenRecipienteM
 
 
     }
